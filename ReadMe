@@ -1,0 +1,54 @@
+Download YAFTA.tar.gz, and unpack it via
+
+> tar -zxvf YAFTA.tar.gz
+
+This will create the directory YAFTA, containing the following items:
+
+
+
+Obsolete/
+ReadMe
+YAFTA_IDL.pro
+YAFTA_Intro.pdf
+YAFTA_Intro.ps
+YAFTA_Intro.tex
+YAFTA_dualmask.pro
+YAFTA_dualmask_out.pro
+YAFTA_input.sav
+YAFTA_output.sav
+YAFTA_test.pro
+alt_mask.pro
+change_log.txt
+create_features.pro
+YAFTA_display.pro
+display_labels.pro
+find_nearby.pro
+imgexp.pro
+imgscl_fen.pro
+match_features_v01.pro
+match_masks.pro
+pad_array.pro
+plot_edges.pro
+plot_labels.pro
+rankdown.pro
+tvread.pro
+
+
+
+
+
+Read YAFTA_intro.pdf or YAFTA_intro.ps to learn more about these
+codes.  (A program list appears near the end of these documents.)
+
+From the IDL prompt, you should be able to enter
+
+IDL> .run YAFTA_test.pro
+
+Then, as IDL commands are discussed in YAFTA_Intro.p*, you should be
+able to enter the IDL commands in YAFTA_IDL.pro line by line from the
+IDL prompt.
+
+
+
+
+
